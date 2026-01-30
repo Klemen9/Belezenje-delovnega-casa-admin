@@ -4,6 +4,8 @@ Program za beleženje delovnega časa je bil narejen za beleženje delovnega ča
 
 Beleženje delovnega časa admin je program za windows, ki ga uporablja administrator v šoli oz. podjetju za vpogled v delovni čas zaposlenih,izračunavanje skupnega delovnega časa, nadur, primankljaja, dodajanje dopusta, bolniškega staleža, dodajanje id-ja za nfc medij, urejanje skupin itd. Program črpa podatke iz SMB shrambe v mreži, tam shranjuje tudi konfiguracijo v json formatu, zato je možno več administartorjev na lokalnem omrežju. Porgram sproti sinhronizia podatke s SMB shrambo. 
 
+V nastavitvah je potrebno pot SMB shrambe napisati v takšni obliki: \\123.000.000.000\Stemplanje
+
 Poleg program Beleženje delovnega časa admin za windows sta še:
 
 -Androidna aplikacija »Ura« za »terminal« (androidna naprava na dotik) kamor se priklopi nfc čitalnik. Aplikacijo najdete v drugem repozitoriju uporabnika.
@@ -17,4 +19,5 @@ Poleg program Beleženje delovnega časa admin za windows sta še:
 ![Koledar](koledar.png)
 
 ![Rezultati](rezultati.png)
+
 
