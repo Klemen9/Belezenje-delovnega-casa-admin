@@ -8,9 +8,9 @@ V nastavitvah je potrebno pot SMB shrambe napisati v takšni obliki: \\123.000.0
 
 Poleg program Beleženje delovnega časa admin za windows sta še:
 
--Androidna aplikacija »Ura« za »terminal« (androidna naprava na dotik) kamor se priklopi nfc čitalnik. Aplikacijo najdete v drugem repozitoriju uporabnika.
+-Androidna aplikacija »Ura« za »terminal« (androidna naprava na dotik) kamor se priklopi nfc čitalnik. Aplikacijo najdete v drugem repozitoriju uporabnika. (https://github.com/Klemen9/Belezenje-delovnega-casa-Ura7)
 
- -Androidna aplikacija za zaposlene črpa podatke iz OneDrive. To aplikacijo imajo zaposleni nameščeno na svojih telefonih za vpogled v delovni čas. Aplikacijo najdete v drugem repozitoriju uporabnika.
+ -Androidna aplikacija za zaposlene črpa podatke iz OneDrive. To aplikacijo imajo zaposleni nameščeno na svojih telefonih za vpogled v delovni čas. Aplikacijo najdete v drugem repozitoriju uporabnika. (https://github.com/Klemen9/Belezenje-delovnega-casa-zaposleni-app)
 
 ## Slike
 
@@ -19,5 +19,6 @@ Poleg program Beleženje delovnega časa admin za windows sta še:
 ![Koledar](koledar.png)
 
 ![Rezultati](rezultati.png)
+
 
 
